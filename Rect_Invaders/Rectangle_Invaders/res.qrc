@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>laser.wav</file>
+        <file>gcmusic.mp3</file>
+        <file>screams.wav</file>
+        <file>HauntedScreams.mp3</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>Sprites/bg5.jpg</file>
+        <file>Sprites/bullet.png</file>
+        <file>Sprites/enemy.png</file>
+        <file>Sprites/res.qrc</file>
+        <file>Sprites/player.png</file>
+        <file>Sprites/jumpscare.gif</file>
+        <file>Sprites/jumpscare.jpg</file>
+    </qresource>
+</RCC>
